@@ -52,7 +52,7 @@ echo -e "\033[1;32m ◈─ᗚ Expire Date • ๛   \033[1;31m$gui"
 echo ""
 echo -e "\033[1;37m◈────⪧  Y.Y.P SSH Servers ⪦────◈"
 echo -e "\033[1;32m[-] ═──────────────────⪧◇⪦─────────────────═                                           
-cho -e "\033[1;32m        ࿂ Login Limit • ๛   \033[1;31m$sshlimiter"
+echo -e "\033[1;32m        ࿂ Login Limit • ๛   \033[1;31m$sshlimiter"
 echo -e "\033[1;32m.      ࿂ Expire Date • ๛   \033[1;31m$gui"
 echo -e "\033[1;32m[-] ═──────────────────⪧◇⪦─────────────────═                                           
 echo -e "\033[1;32m›☬[•] SCRIPTS ═◇ DARKSSH ◇═ [•]☬ 
